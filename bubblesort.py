@@ -27,7 +27,7 @@ def bubblesort(tal):
 
 def main():
     tal = generer_tal()
-    print_tal(tal, "Før sortering:")
+    print_tal(tal, "Foer sortering:")
     bubblesort(tal)
     print_tal(tal, "Efter sortering:")
 
