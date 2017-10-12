@@ -31,5 +31,4 @@ def main():
     bubblesort(tal)
     print_tal(tal, "Efter sortering:")
 
-
 main()
